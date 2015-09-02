@@ -2,16 +2,16 @@ package javagitexample;
 
 public class JavaGitExample {
     
-    public void imprimir()
+    public void ver()
     {
-        System.out.println("Control de Versiones con GitHub");
+        System.out.println("Control Versiones GitHub");
     }
 
     public static void main(String[] args) {
         JavaGitExample ejemplo;
         ejemplo=new JavaGitExample();
         
-        ejemplo.imprimir();
+        ejemplo.ver();
 
     }
     
