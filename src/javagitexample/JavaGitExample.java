@@ -8,10 +8,10 @@ public class JavaGitExample {
     }
 
     public static void main(String[] args) {
-        JavaGitExample ejemplo;
-        ejemplo=new JavaGitExample();
+        JavaGitExample ejemplo2;
+        ejemplo2=new JavaGitExample();
         
-        ejemplo.ver();
+        ejemplo2.ver();
 
     }
     
